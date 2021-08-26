@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.lightops.pojo2md.services
 
+import com.github.lightops.pojo2md.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 

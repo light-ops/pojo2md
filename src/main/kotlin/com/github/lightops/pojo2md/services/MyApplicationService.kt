@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lightops.pojo2md.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lightops.pojo2md.MyBundle
 
 class MyApplicationService {
 
